@@ -282,6 +282,15 @@ p {
     font-size: 3rem;
 }
 
+.main p{
+  font-family: 'Montserrat', sans serif;
+  text-align: left;
+  font-size: .8rem;
+  margin-bottom: 2rem;
+  padding-left: .2rem;
+  padding-right: .2rem;
+}
+
 
 @keyframes tonext {
     75% {
